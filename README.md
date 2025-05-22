@@ -119,3 +119,15 @@ and product strategy, the organization can drive stronger revenue growth and bet
 - Custom Time Intelligence Filters (MTD, QTD, YTD)
 
 🧠 For more insights or visual walkthroughs, refer to the dashboard file or contact the project maintainer.
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: prasenjit8841@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/prasenjitsaha8841/
+---
+
+⭐ **If you found this project useful, please give it a star!**
+
+---
